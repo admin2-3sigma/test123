@@ -12,7 +12,7 @@ App {
     NavigationStack {
 
         AppPage {
-            title: qsTr("Main Page")
+            title: qsTr("FILE MODIFIED")
 
             Image {
                 source: "../assets/felgo-logo.png"
