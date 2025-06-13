@@ -1,0 +1,22 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.app
+*.log
+
+# Qt Creator / CMake
+*.user
+*.pro.user
+CMakeFiles/
+CMakeCache.txt
+Makefile
+.qmake.stash
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
